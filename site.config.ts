@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'test',
-  domain: 'https://www.notion.so/2161fdc56fcf4082bf9dd998ecad685b',
+  domain: 'https://www.notion.so/e7b393a83f274fe1824665013b72167c',
   author: 'wx',
 
   // open graph metadata (optional)
