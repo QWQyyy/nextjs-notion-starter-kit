@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'paper list',
+  name: 'GOOD Paper List',
   domain: 'https://www.notion.so/Paper-List-313180ce5e14481a8706c6a175820d70',
   author: 'GOOD Lab',
 
